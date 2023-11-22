@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "fs.h": "c",
+        "list_lru.h": "c",
+        "cdev.h": "c",
+        "mm_types.h": "c",
+        "init.h": "c",
+        "kernel.h": "c",
+        "workqueue.h": "c",
+        "io.h": "c"
+    }
+}
